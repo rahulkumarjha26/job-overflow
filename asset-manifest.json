@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/job-overflow/static/css/main.b3a678f1.chunk.css",
+    "main.js": "/job-overflow/static/js/main.21ad75f6.chunk.js",
+    "main.js.map": "/job-overflow/static/js/main.21ad75f6.chunk.js.map",
+    "runtime-main.js": "/job-overflow/static/js/runtime-main.17aee1f4.js",
+    "runtime-main.js.map": "/job-overflow/static/js/runtime-main.17aee1f4.js.map",
+    "static/css/2.267ffeee.chunk.css": "/job-overflow/static/css/2.267ffeee.chunk.css",
+    "static/js/2.319b2eee.chunk.js": "/job-overflow/static/js/2.319b2eee.chunk.js",
+    "static/js/2.319b2eee.chunk.js.map": "/job-overflow/static/js/2.319b2eee.chunk.js.map",
+    "static/js/3.c7cd967f.chunk.js": "/job-overflow/static/js/3.c7cd967f.chunk.js",
+    "static/js/3.c7cd967f.chunk.js.map": "/job-overflow/static/js/3.c7cd967f.chunk.js.map",
+    "index.html": "/job-overflow/index.html",
+    "static/css/2.267ffeee.chunk.css.map": "/job-overflow/static/css/2.267ffeee.chunk.css.map",
+    "static/css/main.b3a678f1.chunk.css.map": "/job-overflow/static/css/main.b3a678f1.chunk.css.map",
+    "static/js/2.319b2eee.chunk.js.LICENSE.txt": "/job-overflow/static/js/2.319b2eee.chunk.js.LICENSE.txt",
+    "static/media/office.49402493.mp4": "/job-overflow/static/media/office.49402493.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17aee1f4.js",
+    "static/css/2.267ffeee.chunk.css",
+    "static/js/2.319b2eee.chunk.js",
+    "static/css/main.b3a678f1.chunk.css",
+    "static/js/main.21ad75f6.chunk.js"
+  ]
+}
